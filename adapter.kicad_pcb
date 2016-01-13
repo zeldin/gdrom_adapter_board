@@ -697,11 +697,11 @@
     )
   )
 
-  (module Symbols:Symbol_GNU-Logo_CopperTop (layer Front) (tedit 5662D57B) (tstamp 5660156A)
+  (module Symbols:Symbol_GNU-Logo_CopperTop (layer Front) (tedit 5690F6E0) (tstamp 5660156A)
     (at 124.7 67.2)
     (descr "GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,")
     (tags "GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,")
-    (fp_text reference REF** (at 0 -6.05028) (layer F.SilkS)
+    (fp_text reference REF** (at 0 -6.05028) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Symbol_GNU-Logo_CopperTop (at 0 9.14908) (layer F.Fab) hide
